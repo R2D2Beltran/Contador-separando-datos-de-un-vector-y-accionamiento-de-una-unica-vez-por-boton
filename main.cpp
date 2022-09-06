@@ -2,7 +2,7 @@
 #include "mbed.h"
 
  
-  DigitalOut C(D2);
+  DigitalOut C(D2);//pturba lina
   DigitalOut D(D3);
   DigitalOut E(D4);
   DigitalOut F(D5);
